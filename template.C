@@ -5,6 +5,12 @@ TASK:
 */
 #include <fstream>
 #include <iostream>
+#include <vector>
+#include <set>
+#include <map>
+#include <set>
+#include <cstring>
+#include <algorithm>
 
 using namespace std;
 
